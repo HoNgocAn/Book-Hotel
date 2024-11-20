@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "221843848784",
+    "project_id": "unique-book-hotel-app-2024",
+    "storage_bucket": "unique-book-hotel-app-2024.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221843848784:android:2bf9a6a8a6e122bc3adb55",
+        "android_client_info": {
+          "package_name": "com.example.book_hotel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC087kDJdsdfY8y8YXvIqBgKSXldi1Nhbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

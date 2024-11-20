@@ -1,0 +1,12 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Quyền truy cập internet -->
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <!-- Quyền truy cập vị trí chính xác (GPS) -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+
+    <!-- Quyền truy cập vị trí đại khái (Wi-Fi, mạng di động) -->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+
+     Các phần khác trong manifest của bạn
+</manifest>
